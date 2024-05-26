@@ -12,6 +12,12 @@
       "quickSearch": 0,
       "filterable": 0
     }, 
+    {"key":"腾讯",
+      "name":"🚛腾讯(官)",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/tengxun.js"},
+
    {
       "key": "drpy_js_优酷",
       "name": "🌱酷酷┃的腾┃直采",
