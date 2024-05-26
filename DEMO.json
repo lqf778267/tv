@@ -12,66 +12,26 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-            "key": "秋霞电影天堂",
-            "name": "秋霞|电影天堂",
+  {
+            "key": "vidhub",
+            "name": "vid┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "请求头": "手机",
-                "主页url": "http://www.hongbaohk.com",
-                "数组": "class=\"myui-vodlist__box\">&&</div>",
-                "简介": "剧情简介</h3>&&</span>",
-                "线路数组": "href=\"#play_down*\"&&</li>[排序:1080zyk>>]",
-                "线路标题": "✨PYLB专享✨+tab\">&&</a",
-                "播放数组": "class=\"myui-content__list&&</ul>",
-                "播放列表": "<li&&</li>",
-                "播放标题": ">&&</a",
-                "播放链接": "href=\"&&\"",
-                "搜索数组": "lazyload\"&&</a",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索url": "http://www.hongbaohk.com/sou/{wd}----------{pg}---.html",
-                "分类数组": "class=\"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "href=\"/hk&&.html\"",
-                "分类url": "http://www.hongbaohk.com/rou/{cateId}--{by}------{catePg}---.html[]"
+                "简介": "<span>&&</span>",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                " 数组": "class=\"module-item-titlebox\">&&</div>",
+                "副标题": "module-item-text\">&&</div>",
+                "图片": "data-src=\"&&\"",
+                "线路数组": "data-dropdown-value&&</small>",
+                "线路标题": "<span>&&[替换:</span><small>>>共]+集",
+                "分类url": "https://vidhub1.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
         },
-
-    
-{
-            "key": "磁力天堂",
-            "name": "磁力天堂",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-             "jar": "./xmmmmm.jar",
-            "ext": {
-                "主页url": "https://www.clgod.xyz/",
-                "副标题": "pic-text text-right\">&&</b>",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "搜索url": "https://s.clgod.xyz/e/search/result/?searchid={wd}",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "播放列表": "<li>&&</li>",
-                "播放标题": "<span>&&</span>",
-                "播放链接": "href=\"&&\"[不包含:data-clipboard-text=\"&&\"]",
-                "播放链接前缀": "magnet:?xt=urn:btih:",
-                "播放链接后缀": "",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-               "分类": "电影$movie#动漫电影$list/0-41-0-0.html#剧集$tv#动漫剧集$tv/0-41-0-0.html",
-                "分类url": "https://s.clgod.xyz/{cateId}"
-        }},
     {
       "key": "糖心",
       "name": "🔞糖心次元",
