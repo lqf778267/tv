@@ -28,12 +28,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {"key":"腾讯",
-      "name":"🚛腾讯(官)",
-      "type":3,
-      "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lqf778267/tv/main/lib/drpy2.min.js",
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lqf778267/tv/main/lib/腾云驾雾.js"
-    },
+
 
    {
       "key": "drpy_js_优酷",
