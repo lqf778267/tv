@@ -15,7 +15,7 @@
     {"key":"腾讯",
       "name":"🚛腾讯(官)",
       "type":3,
-      "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api":"./lib/drpy2.min.js",
       "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 
    {
