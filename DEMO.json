@@ -12,7 +12,32 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
+{
+            "key": "磁力天堂",
+            "name": "磁力天堂",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.clgod.xyz/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "https://s.clgod.xyz/e/search/result/?searchid={wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "播放列表": "<li>&&</li>",
+                "播放标题": "<span>&&</span>",
+                "播放链接": "href=\"&&\"[不包含:data-clipboard-text=\"&&\"]",
+                "播放链接前缀": "magnet:?xt=urn:btih:",
+                "播放链接后缀": "",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+               "分类": "电影$movie#动漫电影$list/0-41-0-0.html#剧集$tv#动漫剧集$tv/0-41-0-0.html",
+                "分类url": "https://s.clgod.xyz/{cateId}"
+        }},
     {
       "key": "糖心",
       "name": "🔞糖心次元",
