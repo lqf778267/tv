@@ -1,5 +1,5 @@
 {
-  "spider": "./xmmmmm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
+  "spider": "./wex.txt";md5;b6def02ec13662a8739d9f80f1f42e89",
   "logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -25,7 +25,7 @@
       "name": "👎放牛┃TV┃App",
       "type": 3,
       "api": "csp_WexFangniu4k",
-     "jar": " ./wex.txt"
+     
       "searchable": 1,
       "changeable": 1
     },
