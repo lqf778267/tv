@@ -12,6 +12,14 @@
       "quickSearch": 0,
       "filterable": 0
     }, 
+    {
+      "key": "Fangniu4k",
+      "name": "👎放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_WexFangniu4k",
+      "searchable": 1,
+      "changeable": 1
+    },
     {"key":"腾讯",
       "name":"🚛腾讯(官)",
       "type":3,
