@@ -12,6 +12,14 @@
       "quickSearch": 0,
       "filterable": 0
     }, 
+     {
+      "key": "Wexhuayang",
+      "name": "🌺花花┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexhuayang",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "Fangniu4k",
       "name": "👎放牛┃TV┃App",
